@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "Run Python",
+            "program": "py",
+            "args": ["main.py"],
+        },
+
+    ]
+}
